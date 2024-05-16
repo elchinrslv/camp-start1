@@ -1,0 +1,25 @@
+.list-page {
+  
+    padding: 42px calc(50% - 300px);
+}
+
+.list-page__title {
+    background: #496DDB;
+    font-size: 34px;
+    margin-bottom: 26px;
+    font-family: 'Luckiest Guy', cursive;
+    color: #FFEEDB;
+    font-size: 45px;
+}
+.list-page__name{
+    background: #455583;
+    font-size: 34px;
+    margin-bottom: 26px;
+    font-family: 'Luckiest Guy', cursive;
+    color: yellow;
+    font-size: 35px;
+}
+.list-page ul li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
